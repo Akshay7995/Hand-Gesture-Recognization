@@ -52,13 +52,13 @@ Functionality:
 
 **Increments the finger count for each valid defect.
 
-(vii)Gesture Display:
+(viii)Gesture Display:
 
 *Overlays the number of detected fingers (l) on the original frame (cv2.putText).
 
 *Handles edge cases like no hand detected or too many fingers.
 
-(vii)Window Display:
+(ix)Window Display:
 
 *Shows the original frame (frame) and the mask (mask) for visualization.
 
